@@ -1,0 +1,7 @@
+package creationalDesignPattern.factoryDesignPattern;
+
+public class Product2 implements  Product{
+    public String getName() {
+        return "Product2";
+    }
+}
